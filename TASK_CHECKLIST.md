@@ -8,9 +8,10 @@
 - [x] BCrypt Password encryption implementation
 - [x] POST /api/auth/register endpoint logic
 - [x] POST /api/auth/login endpoint logic
+- [x] React Web Application (Login/Register/Dashboard)
+- [x] Mobile Application (Login/Register/Dashboard)
 
 ## IN-PROGRESS
-- [ ] React Web Application (Login/Register/Dashboard)
+- [ ] Network Fix for Mobile
 
 ## TODO
-- [ ] Screenshots of Web UI for FRS
