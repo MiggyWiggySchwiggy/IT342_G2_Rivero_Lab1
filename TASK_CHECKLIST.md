@@ -5,12 +5,12 @@
 - [x] Database connection (MySQL) configured (commit: [hash])
 - [x] User Entity and Repository Interface created (commit: [hash])
 - [x] FRS Documentation with ERD/UML (commit: [hash])
+- [x] BCrypt Password encryption implementation
+- [x] POST /api/auth/register endpoint logic
+- [x] POST /api/auth/login endpoint logic
 
 ## IN-PROGRESS
-- [ ] BCrypt Password encryption implementation
-- [ ] POST /api/auth/register endpoint logic
+- [ ] React Web Application (Login/Register/Dashboard)
 
 ## TODO
-- [ ] POST /api/auth/login endpoint logic
-- [ ] React Web Application (Login/Register/Dashboard)
 - [ ] Screenshots of Web UI for FRS
